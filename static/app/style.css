@@ -1,0 +1,27 @@
+.content {
+    background: skyblue;
+    text-align: center;
+}
+.image {
+    text-align: center;
+}
+.headerText {
+    background: skyblue;
+}
+.headerImage {
+
+}
+.headerMain {
+
+}
+.contentImageBox {
+
+}
+.contentImage {
+    width:50%;
+    height:50%;
+}
+.carousel-inner {
+    display: flex;
+    justify-content: center;
+}
