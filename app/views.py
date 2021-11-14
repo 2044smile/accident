@@ -12,12 +12,17 @@ def content_1(request):
 def content_2(request):
     return render(request, 'app/content_2.html')
 
-
 def content_3(request):
     return render(request, 'app/content_3.html')
 
 def content_4(request):
     return render(request, 'app/content_4.html')
 
+def content_5(request):
+    return render(request, 'app/content_5.html')
+
 def photos(request):
     return render(request, 'app/photos.html')
+
+def videos(request):
+    return render(request, 'app/videos.html')
