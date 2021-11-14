@@ -15,3 +15,9 @@ def content_2(request):
 
 def content_3(request):
     return render(request, 'app/content_3.html')
+
+def content_4(request):
+    return render(request, 'app/content_4.html')
+
+def photos(request):
+    return render(request, 'app/photos.html')

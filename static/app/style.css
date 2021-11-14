@@ -1,27 +1,11 @@
-.content {
-    background: skyblue;
-    text-align: center;
-}
-.image {
-    text-align: center;
-}
-.headerText {
-    background: skyblue;
-}
-.headerImage {
+.firstPage { color: red; background-color: red; }
 
-}
-.headerMain {
+.secondPage { color: red; }
 
-}
-.contentImageBox {
+#firstPage { color: red; }
 
-}
-.contentImage {
-    width:50%;
-    height:50%;
-}
-.carousel-inner {
-    display: flex;
-    justify-content: center;
-}
+#secondPage { color: red; }
+
+header h1 { color: red; }
+
+/*# sourceMappingURL=style.css.map */
